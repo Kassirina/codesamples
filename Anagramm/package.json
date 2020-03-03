@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo application",
+  "author": "Karina Baumgarten",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc src/index.ts && node src/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
